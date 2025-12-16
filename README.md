@@ -24,8 +24,8 @@
 1. Клонировать репозиторий:
 
 ```bash
-git clone <your_repo_url>
-cd autonomous_browser_ai
+git clone https://github.com/RustamovAkrom/AutomationBrowser.git
+cd AutomationBrowser
 ````
 
 2. Создать виртуальное окружение и установить зависимости:
@@ -71,7 +71,7 @@ python main.py
 ## 🔹 Структура проекта
 
 ```
-autonomous_browser_ai/
+AutomationBrowser/
 ├─ core/
 │  ├─ agent.py           # Создание основного агента
 │  ├─ browser.py         # Создание и настройка браузера
